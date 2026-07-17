@@ -1,3 +1,4 @@
+<img width="959" height="566" alt="Python lab verification" src="https://github.com/user-attachments/assets/a8dff112-0915-4a9f-ac78-3a39e544c490" />
 # Worksheet for Python Lab
 
 ## Part A - Project Structure
